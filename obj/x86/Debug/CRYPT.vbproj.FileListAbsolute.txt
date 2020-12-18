@@ -1,0 +1,13 @@
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Debug\CRYPT.exe
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Debug\CRYPT.pdb
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Debug\CRYPT.xml
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\CRYPT.Resources.resources
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\CRYPT.exe
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\CRYPT.xml
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\CRYPT.pdb
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Debug\CRYPT.CRY.resources
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Debug\sec.dll
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Debug\sec.pdb

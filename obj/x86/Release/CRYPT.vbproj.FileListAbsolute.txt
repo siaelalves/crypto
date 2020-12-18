@@ -1,0 +1,16 @@
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Release\CRYPT.exe
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Release\CRYPT.pdb
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Release\CRYPT.xml
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Release\sec.dll
+D:\Projetos\VB\Templates\Ativos\CRYPT\bin\Release\sec.pdb
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\CRYPT.CRY.resources
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\CRYPT.Resources.resources
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\CRYPT.exe
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\CRYPT.xml
+D:\Projetos\VB\Templates\Ativos\CRYPT\obj\x86\Release\CRYPT.pdb
+D:\Projetos\VB\Templates\Concluídos\CRYPT\obj\x86\Release\CRYPT.exe
+D:\Projetos\VB\Templates\Concluídos\CRYPT\obj\x86\Release\CRYPT.xml
+D:\Projetos\VB\Templates\Concluídos\CRYPT\obj\x86\Release\CRYPT.pdb
